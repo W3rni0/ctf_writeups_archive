@@ -27,7 +27,7 @@ This is my writeup for the challenges in rgbCTF 2020, I participated alone in th
   * [I Love Rainbows](#i-love-rainbows)
   * [e](#e)
   * [Occasionally Tested Protocol](#occasionally-tested-protocol)
-  * [Shakespeare Play, Lost (and found!)](#shakespeare-play,-lost-(and-found!))
+  * [Shakespeare Play, Lost (and found!)](#shakespeare-play-lost-and-found)
 * [Misc](#misc)
   * [Differences](#differences)
   * [Hallo?](#hallo?)
